@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 transformers = {extras = ["sentencepiece"], version = "*"}
 torch = "*"
+jupyter = "*"
 
 [dev-packages]
 
