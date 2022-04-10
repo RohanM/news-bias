@@ -1,53 +1,596 @@
+AARP,0
 ABC News (Online),-0.5
+Above The Law,-0.5
+Abridge News,0
+Accuracy in Media,1
+ACLU,-0.5
+AJ+,-1
+Al Jazeera,-0.5
+AllSides,0
+AllSides Community,0
 AlterNet,-1
+American Conservative Union,1
+American Enterprise Institute,0.5
+American Greatness,1
+American Psychological Association,0
+American Thinker,1
+Americans for Democratic Action,-1
+Americans for Tax Reform,1
+Ammo.com,1
+Amnesty International,-0.5
+Anchorage Daily News,0
+Aquinas College Saint,-1
+Arc Digital,0
+Arizona Mirror,0
+Arkansas Democrat-Gazette,-1
 Associated Press,0
+Association for Psychological Science,0
+Atlanta Black Star,-0.5
+Atlanta Journal-Constitution,-0.5
+Atlas Network,1
+AtlasOne,0.5
+Austin American-Statesman,-0.5
 Axios,0
+AZ Central,0
+Babylon Bee (Humor),0.5
+Ballotpedia,0
+Baltimore Sun,0
+Bangor Daily News,-0.5
+Barnstable Patriot,0
 BBC News,0
+Bearing Drift,1
+BET,-0.5
+Better Government Association,0
+Biblical Gender Roles,1
+Biblical Sexology,1
+Bizpac Review,1
+Black Agenda Report,-1
+Black Enterprise,-0.5
+Block Club Chicago,-1
 Bloomberg,-0.5
+Blue Virginia,-1
+Boing Boing,-1
+Boston Herald,0.5
+Boston Herald Editorial,0.5
+Boston Review,-0.5
+Bowling Green Daily News,-0.5
+Braver Angels,0
 Breitbart News,1
+Brennan Center for Justice,-0.5
+Bridge Alliance,-0.5
+Bridgemi.com,0
+Brookings Institution,0
+Brown Girl Magazine,-1
+Brownstone Institute,1
+Bustle,-0.5
 BuzzFeed News,-1
+Byron Donalds,0.5
+C-SPAN,0
+CalMatters,0
+CalWatchdog,0
+Capital Research Center,0.5
+Care2,-1
+Carnegie Endowment for International Peace,0
+Cato Institute,0.5
+CBN,1
 CBS News (Online),-0.5
+Center - Major Media Sources,0
+Center For American Progress,-0.5
+Center for Media & Democracy PR Watch,-0.5
+Center for Public Integrity,-0.5
+Center for Strategic and Budgetary Assessments,0.5
+Center on Budget and Policy Priorities,-1
+Centre View,-0.5
+Chicago Booth Initiative on Global Markets,0
+Chicago Crusader,-1
+Chicago Defender,-1
+Chicago Sun-Times,-0.5
+Chicago Tribune,0
+Children’s Defense Fund,-1
 Christian Science Monitor,0
+Christianity Today,0.5
+City Journal,1
+CivilPolitics.org,0
+CNBC,0
+CNET,0
 CNN (Online News),-1
 CNN (Opinion),-1
+CNN Business,-0.5
+CNSNews.com,1
+Coffee Party USA,0
+CoinDesk,0
+Columbia Journalism Review,0
+Columbia Missourian,0
+Commentary Magazine,1
+Committee to Protect Journalists,0
+Common Dreams,-1
+Common Ground Committee,0
+Complex,0
+Concord Monitor,0
+Conservative HQ,1
+Cook Report,0
+Council on Foreign Relations,-1
+Countable,0
+Counter Currents,-0.5
+Counterpointing,0
+CrowdPAC,0
+CU Independent,0
+Current Affairs,-1
 Daily Beast,-1
+Daily Breeze,0
+Daily Cardinal,0
+Daily Chela,-1
+Daily Citizen,1
+Daily Kos,-1
 Daily Mail,1
+Daily Northwestern,-0.5
+Daily Press,0.5
+Daily Progress,0
+Daily Targum,-0.5
+Data for Progress,-1
+Dayton Daily News,0
+Deadline,0
+Defense One,0
 Democracy Now,-1
+Des Moines Register,0
+Deseret News,0.5
+Desiring God,0.5
+DetectFakeNews.com,0
+Detroit Free Press,-0.5
+Detroit News,0
+Deutsche Welle,0
+Diplomatic Courier,0
+Divided We Fall,0
+Drudge Report,0.5
+Duke Chronicle,0
+East Bay Times,-0.5
+Economic Policy Institute,-1
+Education Week,0
+EdVotes.org,-1
+El Paso Times,0
+Elle Magazine,-0.5
+Environmental Defense Fund,-0.5
+Erraticus,0
+ESPN.com,-0.5
+Esquire,-1
+Estes Park Trail Gazette,0
+Eurek Alert,0
+Evie Magazine,0.5
+Face the Facts USA,0
+Fact Checker Blog,0
+FAIR,-0.5
+Falls Church News - Press,-1
+Family Research Council,0.5
+Federation of American Scientists,-0.5
+FEE.org,0.5
+Financial Times,0
+First Draft News,0
+Fiscal Times,0.5
+FiveThirtyEight,0
+Florida Politics,0
+Food Democracy Now,-0.5
 Forbes,0
+Foreign Affairs,0
+Foreign Policy,0
+Fort Worth Star-Telegram,0
+Fortune,0
+Fox Business,0.5
 Fox News (Online News),1
 Fox News (Opinion),1
+Fox News Latino,1
+Freakonomics,0
+Freedom House,0.5
+FrontPage Magazine,1
+Gallup,0
+Gell,0
+Georgia Recorder,0
+Gizmodo,-0.5
+GLAAD,-0.5
+Global Disinformation Index,-1
+GoLocal Providence,0
+Google News,-0.5
+GOP.gov,1
+Govt. Accountability Office,0
+GQ.com,-0.5
+Grist,-0.5
+Haaretz,0
+Hampton Roads Messanger,0
+Harvard Business School,-0.5
+Healthcare.gov,-0.5
+Heavy.com,0
+Herald Democrat,-1
+Herald-Dispatch,-0.5
+Herald-Tribune,-0.5
+High Times,-0.5
+Hip Latina,-1
+Honolulu Civil Beat,0
+HotAir,0.5
+Houston Chronicle,0
 HuffPost,-1
+Human Events,0.5
+Human Rights Campaign,-1
+Human Rights Watch,0
+Idaho Statesman,0
+Inacow,1
+IncentFit,0
+Independent Institute,0.5
+Independent Journal Review,0.5
+Indiana Daily Student,0
+Indy Online,0
+Indy Week,-0.5
+IndyStar,0
+InfoWars,1
+Inland Valley Daily Bulletin,0
+Inside Higher Ed,-0.5
+Inside Philanthropy,0
+Insider,-0.5
+Intellectual Conservative,0.5
+International Business Times,0
+Investor's Business Daily,0.5
+Iowa Capital Dispatch,0
+IVN,0
+Jacobin,-1
+Jefferson Public Radio,0
+Jezebel,-1
+Journalist's Resource,0
+JSTOR Daily,0
+Jubilee Media,0
+Judicial Watch,0.5
+Just Facts,0
+Just Security,0
+Just The News,0
+Kaiser Family Foundation,0
+KALW.org,0
+KATU,0
+Kenosha News,0
+KQED,0
+KSL,1
+KWCH,0
+Laramie Boomerang,0
+Las Vegas Review-Journal,0
+Las Vegas Sun,-0.5
+Latino Rebels,-1
+Law & Crime,0
+Leafly,-1
+Leesburg Today,0.5
+Left - Major Media Sources,-1
+LGBTQ Nation,-1
+Lifehacker,0
+Listen First Project,0
+Live Action News,0.5
+Live Science,0
+Long Beach Press-Telegram,0
+Longmont Times-Call,-0.5
+Los Angeles Daily News,0
+Los Angeles Times,-0.5
+Louisville Courier-Journal,-0.5
+Maine Beacon,-0.5
+Making Sense,0
+Manhattan Institute,0.5
+Marijuana Moment,-0.5
+MarketWatch,0
+Mashable,-1
+MassLive.com,-0.5
+McClatchyDC,0
+Media Matters,-1
+Media Research Center,1
+Media Village,0
+Mediaite,-0.5
+Mercatus Center,0.5
+Meridian Magazine,0.5
+Metro Weekly,-1
+Miami Herald,-0.5
+MichelleMalkin.com,1
+Michigan Daily,-0.5
+Military Times,0
+Milwaukee Journal Sentinel,0
+Mises Institute,0.5
+Misinformation Review,0
+Mismatch.org,0
+MIT News,0
+Mitú,-1
 Mother Jones,-1
 MSNBC,-1
+MTV News Online,-0.5
+NAACP,-0.5
+National Committee to Preserve Social Security and Medicare,-1
+National Constitution Center,0
+National Federation of Independent Business,0.5
+National Geographic,0
+National Interest,0
+National Journal,0
+National Post,0.5
 National Review,1
+Nature.com,0
+Nautilus Quarterly,0
 NBC News (Online),-0.5
+NBC Today Show,-0.5
+New Discourses,0
+New Economy Working Group,-0.5
+New Hampshire Union Leader,0
+New Jersey Globe,0
+New Jersey Monitor,-0.5
+New Republic,-1
+New York Daily News,-1
+New York Magazine,-1
 New York Post (News),0.5
+New York Post (Opinion),1
 New York Times (News),-0.5
 New York Times (Opinion),-1
+News Center Maine,-0.5
+News Literacy Project,0
+NewsBusters,1
+Newsmax (News),1
+Newsmax - Opinion,1
+NewsNation,0
+NewsOne,-1
 Newsweek,0
+Newsy,0
+Newtrals,0
+Nieman Lab,0
+nj.com,-0.5
+NMPolitics.net,0
+No Labels,0
 NPR (Online News),-0.5
 NPR (Opinion),-0.5
+NYNMedia,-1
+Ohio Capital Journal,-0.5
+One America News Network (OAN),1
+OpenSecrets.org,0
+Orange County Register,0.5
+Orlando Sentinel,0
+Our.News,0
+Outkick the Coverage,0
+Pacific Research Institute,1
+Pacific Standard,-0.5
+Palm Springs Desert Sun,0
+Pasadena Star-News,0
+Patch.com,0
+PBS NewsHour,0
+Peacock Panache,-1
+Pennsylvania Capital-Star,0.5
+People for the American Way,-1
+Pew Research Center,0
+Phys.org,0
+Physicians for a National Health Program,-1
+PinkNews,-1
+Pittsburgh Post-Gazette,0
+PJ Media,1
 Politico,-0.5
+PoliticusUSA,-1
+Portland Press Herald,0
+Poynter,0
+Prager University,1
+PRI (Public Radio International),0
+Progressive Voices of Iowa,-1
+Project Veritas,1
+ProPublica,-0.5
+Psychology Today,0
+PXW News,0
+Quartz,0
+Quillette,0.5
+Quinnipiac University,0
+RAND Corporation,-0.5
+Rasmussen Reports,0
+Raw Story,-1
+RealClearPolitics,0
 Reason,0.5
+Reason Foundation,0.5
+Record Journal,0
+Red Racing Horses,1
+RedBlueDictionary.org,0
+redefinED,0
+Redlands Daily Facts,0
+RedState,1
+Refinery29,-1
 Reuters,0
+Revolver News,1
+Richmond Times Dispatch,0.5
+Right - Major Media Sources,1
+Right Side News,1
+Right Wing News,1
+Roll Call,0
+RollingStone.com,-1
+RT,0.5
+Salon,-1
+San Antonio Express-News,0
+San Bernardino Sun,0
+San Diego Union-Tribune,0
+San Diego Union-Tribune,-0.5
+San Francisco Chronicle,-1
+San Gabriel Valley Tribune,0
+San Jose Mercury News,-0.5
+Science Daily,0
+Scientific American,-0.5
+SCOTUSblog,0
+Scriberr Media - News,0
+Scriberr Media - Opinion/Editorial,0.5
+SF Weekly,0
+SFGate,-0.5
+Sky-Hi Daily News,-0.5
 Slate,-1
+Smerconish,0
+Smithsonian Magazine,0
+Socialist Alternative,-1
+Socialist Project/The Bullet,-1
+South China Morning Post,0
+Southern Poverty Law Center,-1
+Spectator USA,1
+Spiked,0.5
+Splinter,-1
+Spokesman Review,-0.5
+St. Louis Post-Dispatch,0
+Star Tribune,-0.5
+STAT,0
+State Journal,-0.5
+Stimson Center,0
+StoryCorps,0
+Students For Life,0.5
+Subverse,0
+Sunlight Foundation,0
+Suspend Belief Podcast,0
+Tablet Mag,0.5
+Tallahassee Democrat,0
+Tampa Bay Times,0
+Tech Xplore,0
+TechCrunch,0
+Teen Vogue,-0.5
+Texas Monthly,0
+The Advocate,-0.5
+The Advocate-Messenger,-0.5
+The American Conservative,0.5
+The American Mind,0.5
 The American Spectator,1
+The Appeal,0
 The Atlantic,-0.5
+The Bellows,0
 The Blaze,1
+The Boston Globe,-1
+The Bulwark,0.5
+The Cadiz Record,-0.5
+The Canyon County Zephyr,-1
+The Catalyst,0.5
+The Center for American Progress,-0.5
+The Center Square - Michigan,0
+The Center Square - Texas,0
+The Christian Post,0.5
+The College Fix,1
+The Colorado Sun,-0.5
+The Columbus Dispatch,0
+The Commercial Appeal,-0.5
+The Conversation,-0.5
+The Corpus Christi Caller-Times,0
+The Courier-Journal,-0.5
 The Daily Caller,1
+The Daily Dot,-0.5
+The Daily Iowan,0
+The Daily Signal,1
 The Daily Wire,1
+The Dallas Morning News,0
+The Delaware County Daily Times,-0.5
+The Dispatch,0.5
 The Economist,-0.5
 The Epoch Times,0.5
 The Federalist,1
+The Flip Side,0
+The Florida Capital Star,1
+The Fulcrum,0
+The Gateway Pundit,1
+The Georgia Star News,1
+The Globe and Mail,0
 The Guardian,-0.5
+The Heritage Foundation,0.5
 The Hill,0
+The Hollywood Reporter,-0.5
+The Huntsville Item,0
+The Imaginative Conservative,1
+The Independent,-0.5
 The Intercept,-1
+The Iowa Torch,0.5
+The Japan Times,0
+The Jerusalem Post,0
+The Juggernaut,-1
+The Justice,-0.5
+The Korea Herald,0
+The Kyiv Independent,0
+The Libertarian Republic,0.5
+The Lincoln Project,0
+The Lufkin Daily News,0
+The Maneater,-0.5
+The Markup,0
+The Marshall Project,0
+The Michigan Star,1
+The Nation,-1
+The National Pulse,1
+The Nevada Independent,0
 The New Yorker,-1
+The Observer (New York),0
+The Onion (Humor),-0.5
+The Oracle,0
+The Oregonian,0
+The Philadelphia Inquirer,-0.5
+The Plebeian,-0.5
+The Police Tribune,0.5
+The Portsmouth Herald,0
+The Post Millennial,0.5
+The Press-Enterprise,0.5
+The Red and Black,0
+The Reliable Bias,0
+The Reno Gazette-Journal,-0.5
+The Reporters Committee for Freedom of the Press,0
+The Republican,0
+The Republican Journal,0.5
+The Resurgent,1
+The Ripon Advance,0.5
+The Root,-0.5
+The Sacramento Bee,-0.5
+The Saturday Evening Post,0
+The Seattle Times,0
+The Sierra Club,-0.5
+The South African,0
+The Telegraph - UK,0.5
+The Tennesseean,0
+The Texan,0.5
+The Texas Observer,-0.5
+The Texas Tribune,-0.5
+The Thread,0
+The Times,0
+The Times-Picayune,0
+The Verge,-0.5
+The Week - News,-0.5
+The Week - Opinion,-0.5
+The Weekly Standard,1
+The Weirton Daily Times,0
+The Western Journal,1
+The Wyoming Tribune Eagle,0
+ThinkProgress,-1
 Time Magazine,-0.5
+Times Union,0
+Townhall,1
+Trains.com,0
+Truthdig,-1
+TruthOut,-0.5
+U.S. News & World Report,-0.5
+United States Courts,0
+Univision,-0.5
+Unwoke Narrative,0.5
+Upworthy,-1
+Urban Institute,-0.5
 USA TODAY,-0.5
+Vanity Fair,-0.5
+Variety,0
+Vice,-1
+Virginia Mercury,0
+Voice of America,0
+Volante,0
+Vote Smart,0
 Vox,-1
+VT Digger,-0.5
+Wake Up to Politics,0
 Wall Street Journal (News),0
 Wall Street Journal (Opinion),0.5
+WANDTV,0
 Washington Examiner,0.5
+Washington Free Beacon,1
+Washington Monthly,-0.5
 Washington Post,-0.5
 Washington Times,0.5
+Watchdog.org,0.5
+WCVB,0
+WFAE,0
+WGBH,0
+WGN,0
+Whatfinger News,1
+Whitehouse.gov,0.5
+Whittier Daily News,0
+Wired,0
+Wisconsin Gazette,-0.5
+WND.com,1
+World Wildlife,0
+WVNews.com,0
+WyoFile,0.5
+Wyoming Public Media,-0.5
+Yahoo News,-0.5
+Yahoo! The 360,0
+Yes! Magazine,-1
+ZeroHedge,0.5
