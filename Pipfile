@@ -9,6 +9,8 @@ torch = "*"
 jupyter = "*"
 beautifulsoup4 = "*"
 pandas = "*"
+jupyterlab = "*"
+matplotlib = "*"
 
 [dev-packages]
 
