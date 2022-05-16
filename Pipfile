@@ -12,6 +12,7 @@ pandas = "*"
 jupyterlab = "*"
 matplotlib = "*"
 datasets = "*"
+sklearn = "*"
 
 [dev-packages]
 
