@@ -13,6 +13,7 @@ jupyterlab = "*"
 matplotlib = "*"
 datasets = "*"
 sklearn = "*"
+jupyter-contrib-nbextensions = "*"
 
 [dev-packages]
 
