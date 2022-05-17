@@ -14,6 +14,7 @@ matplotlib = "*"
 datasets = "*"
 sklearn = "*"
 jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
 
 [dev-packages]
 
